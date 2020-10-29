@@ -1,0 +1,22 @@
+.Sidebar{
+    width: 80px;
+    background-color: rgba(32, 32, 35, 1);
+    height: 100%;
+    border-right: 1px solid rgb(189, 189, 192, 0.1);
+    transition: 0.3s;
+    overflow-y: scroll;
+}
+
+/* Not small devices */
+@media (min-width:576px){
+    .Sidebar{
+        width: 320px;
+    }
+}
+.Sidebar {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.Sidebar::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
