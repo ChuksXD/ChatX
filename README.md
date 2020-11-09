@@ -2,7 +2,8 @@
 
 This is a Chat Web Application built with React and Redux where contacts and live messages are obtained from an Api.
 
-![Landing Page](/WeatherApp_Images/Weather1.png)
+![Landing Page](/ChatX_Images/Landing%20Page.png)
+
 
 ## Demo
 
@@ -18,16 +19,16 @@ Here is a live demo: https://chatx-43815.web.app/
 ## Site
 
 ### ChatX Edit & Delete Features
-![Landing Page](/WeatherApp_Images/Weather3.png)
+![Landing Page](/ChatX_Images/ChatXFeatures.png)
 
 ### ChatX Edit
-![Landing Page](/WeatherApp_Images/Weather4.png)
+![Landing Page](/ChatX_Images/ChatXEdit.png)
 
 ### ChatX Delete
-![Landing Page](/WeatherApp_Images/Weather4.png)
+![Landing Page](/ChatX_Images/ChatXDelete.png)
 
 ### Mobile Support
-<img src="/WeatherApp_Images/Weather5.jpg" alt="Mobile Support" width="30%" height="30%"> <img src="/WeatherApp_Images/Weather6.jpg" alt="Mobile Support" width="30%" height="30%">
+<img src="/ChatX_Images/CharXMobile.png" alt="Mobile Support" width="30%" height="30%"> <img src="/WeatherApp_Images/Weather6.jpg" alt="Mobile Support" width="30%" height="30%">
 
 ## Setup
 Clone this repo to your desktop and run `npm install` to install all the dependencies.
